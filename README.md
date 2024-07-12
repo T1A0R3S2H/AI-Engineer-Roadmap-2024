@@ -15,6 +15,7 @@
 
 
 ### 2. Flask Playlist:    [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc)
+![done](https://github.com/T1A0R3S2H/AI-Engineer-Roadmap-2024/assets/123285559/93ab7085-d30a-4c51-bd81-6c2345a4c716)
 
 ### Final Goal Outcome:
 1. Basic To Intermediate Python With various knowledge of various Data structures like numpy,pandas,matplotlib and many more.
