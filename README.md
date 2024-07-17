@@ -28,11 +28,8 @@ https://docs.python.org/release/3.12.0/
 ## 2. Statistics
 ![image](https://github.com/krishnaik06/AI-Engineer-Roadmap-2024/assets/20041231/c28b56d7-30f0-48ae-8fec-d2fb3a690836)
 
-1. English: 7 Days Statistics Live Session : [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay)
-
-2. Statistics in ML(43 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)
-
-3. Stats Hindi Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ)
+### English: 7 Days Statistics Live Session : [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay)
+![done](https://github.com/T1A0R3S2H/AI-Engineer-Roadmap-2024/assets/123285559/93ab7085-d30a-4c51-bd81-6c2345a4c716)
 
 ### Free Courses On Linear Algebra, Stats
 1. Linear Algebra: https://www.khanacademy.org/math/linear-algebra
