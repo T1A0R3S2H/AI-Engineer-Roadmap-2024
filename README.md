@@ -37,6 +37,8 @@ https://docs.python.org/release/3.12.0/
 3. Differential Equations: https://www.khanacademy.org/math/differential-equations
 
 ### EDA Feature Engineering Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
+![done](https://github.com/T1A0R3S2H/AI-Engineer-Roadmap-2024/assets/123285559/93ab7085-d30a-4c51-bd81-6c2345a4c716)
+
 
 ### Final Goal Outcome: 
 1. Techniques to Perform Statistical Analysis
